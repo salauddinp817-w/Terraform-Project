@@ -12,23 +12,6 @@ A hands-on project that provisions AWS infrastructure using Terraform (Infrastru
 - Launch two EC2 instances with Apache using user-data scripts.
 - Create an Amazon S3 bucket.
 
-## Project Screenshots
-
-### Server 1
-<img src="screenshots/server-1.png" width="700">
-
-### Server 2
-<img src="screenshots/server-2.png" width="700">
-
-### Terraform Apply
-<img src="screenshots/terraform-apply.png" width="700">
-
-### Terraform Validate
-<img src="screenshots/terraform-validate.png" width="700">
-
-
-
-
 ## Architecture
 
 - **VPC:** `10.0.0.0/16`
