@@ -36,25 +36,33 @@ Two Apache web servers are deployed on Amazon EC2 using Terraform automation.
 | Apache | Hosts the web applications |
 | Terraform | Automates infrastructure provisioning |
 
-## 📸 Project Screenshots
+## 📸 Output & Screenshots
 
-### 1. Server 1 — Web Application
+### Server 1: Web Service
 
-The first Apache web server is hosted on an Amazon EC2 instance provisioned using Terraform.
 
-![Server 1 Web Application](screenshots/01-server-1.png)
+![Server 1](Screenshots/01-server-1.png)
 
-### 2. Server 2 — Web Application
 
-The second web server demonstrates the deployment of multiple web services on AWS.
 
-![Server 2 Web Application](screenshots/02-server-2.png)
+### Server 2: Web Service
 
-### 3. Terraform Infrastructure Deployment
 
-Terraform successfully created the infrastructure resources.
+![Server 2](Screenshots/02-server-2.png)
 
-![Terraform Apply Success](screenshots/03-terraform-apply.png)
+
+
+### Terraform Apply
+
+
+![Terraform Apply](Screenshots/03-terraform-apply.png)
+
+
+
+### Terraform Validate
+
+
+![Terraform Validate](Screenshots/04-terraform-validate.png)
 
 **Deployment Result:**
 - 11 resources added
